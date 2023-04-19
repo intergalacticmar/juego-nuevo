@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 7354d6bf8e8e6814ea024c6025b48c41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelart sprites_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1335
+        width: 144
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa10a738e50a0645937105ee513a8b4
+      internalID: 2021989419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1335
+        width: 146
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eebd34cb89f554d8c9b68b63789653
+      internalID: 36763300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1328
+        width: 193
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca228724e7739ca45b5369675010c4a0
+      internalID: -1646236890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1326
+        width: 127
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e52dffd70d8fbe489b323d06c41b71f
+      internalID: 933949925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1347
+        width: 196
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e041404cce57fe42a9814d581fd880f
+      internalID: -611189370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1342
+        width: 315
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c85ced961e4442bb0da3c48c4267e
+      internalID: 38392890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1251
+        width: 71
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9adaaca193af249a0142e9d6748509
+      internalID: 1419378837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1245
+        width: 342
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07388749450d0d74fa7ceb48518fad24
+      internalID: -364544662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1033
+        width: 141
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0156076160012b479d3847b37473bc2
+      internalID: 1338928894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1029
+        width: 145
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c958c1449b9a445b62a972e32134c4
+      internalID: -434799064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1032
+        width: 194
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c2032995a1a644b09d5f2b72a64f0
+      internalID: -638490016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1029
+        width: 125
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d039287277657f4baf0346435804a83
+      internalID: 1642710715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1051
+        width: 197
+        height: 260
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8914f530187fdbd4eb0438532dae2e30
+      internalID: -1884596147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1159
+        width: 196
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab94e707434e734fb0e4a78fd9ebeb0
+      internalID: -879151323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1161
+        width: 94
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57966c72acda54b9cb8a625eb0d43a
+      internalID: -49761954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1044
+        width: 238
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8c03f28c8bdc4bb24d06a2618bdc8
+      internalID: -146799122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1039
+        width: 99
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846591221dd7f6c458a1d173b1731b90
+      internalID: -662398533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1048
+        width: 589
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b92536cde2be44e9174ae517be129a
+      internalID: -1983569232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 774
+        width: 141
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408152057de8df94c899974bbd2ad5cd
+      internalID: -929223084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 776
+        width: 248
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d34b957bfebf459a5baae67a00221
+      internalID: 248462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 774
+        width: 150
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbecf3996b57c56479479a24864d27e4
+      internalID: -1556537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 901
+        width: 130
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f68b6e23ddc04e9f1d15858ae8344
+      internalID: 1151955652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 770
+        width: 137
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b636ea2f465b3a4984950b347001c26
+      internalID: -1648644914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_23
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 902
+        width: 140
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee85c4ac4dd2c4693454b4272ccba3
+      internalID: -1397476417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 754
+        width: 139
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ad898b2158c34aa38e2535b0f4a00
+      internalID: 1083109946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 896
+        width: 141
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcfa1a7419a61458730d2e5481af05
+      internalID: 820792980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 542
+        width: 242
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4b005f46970e46a516a6bdad24ca2
+      internalID: -797804196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 533
+        width: 150
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f842d4325af68146bf0f07cb40caa2d
+      internalID: 1962260015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 543
+        width: 34
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1218311266c44c8b6d428c9aceb0f
+      internalID: -1797389365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 539
+        width: 205
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63da4292dbbf58489840452f71d0ebd
+      internalID: -2097861212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_30
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 534
+        width: 230
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299fa423d6fcae4983bb8159c1c9c5f
+      internalID: -1454150432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_31
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 528
+        width: 314
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e45cc3e241f614db4d4eb1dc49780f
+      internalID: -364195133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 528
+        width: 195
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d2c41892ed7345b652387468f186b
+      internalID: -428136435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 130
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5568c54b1527549b0fb0af17a5974c
+      internalID: -685937892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 307
+        width: 228
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2d5b5d75126b4489da8bfdcf94b6c
+      internalID: -100667575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 304
+        width: 137
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2ed7db83f54649896d949e6a90c7f
+      internalID: -2097964843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 420
+        width: 119
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6408b894dbba0fe4d968aeb6edbb230d
+      internalID: -847418916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 301
+        width: 125
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a012b743badc7f42b73cd7625a91834
+      internalID: 1600958907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 421
+        width: 129
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42703e6db22ec84f9697a871805459f
+      internalID: -795704323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 288
+        width: 130
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de0b8b83c0c4c8438a025d0b2d40ca8
+      internalID: 1458977962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 417
+        width: 130
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca2b4b50607d840b7d20322e640ee2
+      internalID: -133952543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 222
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea9ee7e50448e4d9cfdee422d7c06d
+      internalID: 1402547761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 138
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871dcd45279b4342941ec11f9c32b32
+      internalID: -649846124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 33
+        width: 162
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b4bfcdab894e9479b35baa17e9712a
+      internalID: -1400417406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_44
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 35
+        width: 151
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454aaf5ccd0b80478d5e8b7193f710a
+      internalID: -251972402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_45
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 37
+        width: 164
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a356e7c97d2f4086226f9d6d78f88
+      internalID: -993684918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_46
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 41
+        width: 159
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9b832160ef5640aebdb4d748e0ffe
+      internalID: -1945980981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 33
+        width: 584
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb287fe2ef1126440872b584888cc0e1
+      internalID: -1828466160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelart sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 33
+        width: 585
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac7c1fbb2882549aa36b3782455155
+      internalID: 2048719889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixelart sprites_47: -1828466160
+      pixelart sprites_39: 1458977962
+      pixelart sprites_24: 1083109946
+      pixelart sprites_25: 820792980
+      pixelart sprites_37: 1600958907
+      pixelart sprites_28: -1797389365
+      pixelart sprites_11: 1642710715
+      pixelart sprites_0: 2021989419
+      pixelart sprites_29: -2097861212
+      pixelart sprites_9: -434799064
+      pixelart sprites_12: -1884596147
+      pixelart sprites_19: 248462489
+      pixelart sprites_31: -364195133
+      pixelart sprites_32: -428136435
+      pixelart sprites_17: -1983569232
+      pixelart sprites_22: -1648644914
+      pixelart sprites_13: -879151323
+      pixelart sprites_46: -1945980981
+      pixelart sprites_18: -929223084
+      pixelart sprites_30: -1454150432
+      pixelart sprites_35: -2097964843
+      pixelart sprites_27: 1962260015
+      pixelart sprites_42: -649846124
+      pixelart sprites_33: -685937892
+      pixelart sprites_4: -611189370
+      pixelart sprites_38: -795704323
+      pixelart sprites_48: 2048719889
+      pixelart sprites_21: 1151955652
+      pixelart sprites_44: -251972402
+      pixelart sprites_20: -1556537911
+      pixelart sprites_40: -133952543
+      pixelart sprites_43: -1400417406
+      pixelart sprites_41: 1402547761
+      pixelart sprites_14: -49761954
+      pixelart sprites_23: -1397476417
+      pixelart sprites_36: -847418916
+      pixelart sprites_16: -662398533
+      pixelart sprites_5: 38392890
+      pixelart sprites_6: 1419378837
+      pixelart sprites_8: 1338928894
+      pixelart sprites_15: -146799122
+      pixelart sprites_45: -993684918
+      pixelart sprites_26: -797804196
+      pixelart sprites_2: -1646236890
+      pixelart sprites_10: -638490016
+      pixelart sprites_7: -364544662
+      pixelart sprites_34: -100667575
+      pixelart sprites_1: 36763300
+      pixelart sprites_3: 933949925
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
