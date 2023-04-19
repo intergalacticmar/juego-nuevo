@@ -19,7 +19,7 @@ public class Camara : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        target = GameObject.Find("Personaje").GetComponent<Transform>();
+        target = GameObject.Find("personaje").GetComponent<Transform>();
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
